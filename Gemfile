@@ -1,5 +1,8 @@
 source 'http://rubygems.org'
 
+## Gemfile for Rails 3+, Sinatra, or Merb
+gem 'will_paginate', '~> 3.0.5'
+
 # sass-rails needs to be higher than 3.2
 gem 'bootstrap-sass', '~> 3.1.1'
 
